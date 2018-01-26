@@ -1,0 +1,11 @@
+{
+    "name": "eks5115/plist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eks5115",
+            "email": "eks5115@139.com"
+        }
+    ],
+    "require": {}
+}
